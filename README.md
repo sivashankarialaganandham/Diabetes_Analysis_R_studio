@@ -6,33 +6,6 @@ Diabetes, a major global health concern, affects millions of people worldwide. I
 ## Dataset
 The dataset used for this analysis is publicly available on Kaggle: [Kaggle Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
 
-## Data Dictionary
-| Variable              | Data Type |
-|:---------------------:|:---------:|
-| ID                    |           |
-| Diabetes_binary       |
-| HighBP                |
-| HighChol              |
-| CholCheck             |
-| BMI                   |
-| Smoker                |
-| Stroke                |
-| HeartDiseaseorAttack  |
-| PhysActivity          |
-| Fruits                |
-| Veggies               |
-| HvyAlcoholConsump     |
-| AnyHealthcare         |
-| NoDocbcCost           |
-| GenHlth               |
-| MentHlth              |
-| PhysHlth              |
-| DiffWalk
-| Sex
-| Age
-| Education
-| Income
-
 ## Objectives
 1. **Health-Related Factors**: Evaluate the association between health-related factors (BMI, high blood pressure, cholesterol levels, and physical activity) and the likelihood of diabetes.
 2. **Lifestyle Behaviors**: Determine the predictive power of lifestyle behaviors (smoking, alcohol consumption, and mental health) on diabetes risk.
